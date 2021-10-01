@@ -1,0 +1,299 @@
+ID,name,sex,type ,job title,films,video,range,home
+AM,Alexandra Marinescu,2,1,1,1,2,,1
+BM,Ben Muenchnow,1,1,1,2,2,,1
+BG,Bernd Gnann,1,1,1,1,1,3,5
+CAG,Cem Ali Gueltekin,1,1,1,4,1,4,2
+CE,Christian Ehrich,1,1,1,2,2,,1
+CS,Christine Sommer ,2,1,1,4,1,2,3
+CR,Claudia Rippe,2,1,1,1,1,2,1
+FK,Felix Klare ,1,1,1,4,1,2,4
+DB,Dietrich Brueggemann,1,1,3,3,1,2,1
+JKB,Joseph Konrad Bundschuh,1,1,1,3,2,,1
+KT,Karoline Teska,2,1,1,4,1,2,1
+KS,Katharina Schlothauer,2,1,1,3,2,,1
+KO,Kathrin Osterode,2,1,1,2,2,,1
+KK,Kea Koenneker,2,1,1,1,1,2,1
+KD,Ken Duken,1,1,1,4,2,,1
+KU,Kostja Ullmann,1,1,1,4,2,,2
+MR,Manuel Rubey,1,1,1,4,2,,3
+NO,Nicholas Ofczarek,1,1,1,4,2,,1
+NG,Nina Gummich,2,1,1,3,1,4,6
+NP,Nina Proll,2,1,1,4,1,3,3
+PA,Pasquale Aleardi,1,1,1,4,2,99,1
+PB,Peri Baumeister,2,1,1,2,2,99,1
+RY,Ramin Yazdani,1,1,3,4,1,2,2
+RM,Richy Mueller,1,1,1,3,2,99,99
+RD,Roland Dueringer,1,1,1,2,1,2,99
+SD,Samia Dauenhauer,2,1,1,1,2,99,1
+MG,Markus Glaeser,1,1,1,2,2,99,1
+MB,Martin Brambach,1,1,1,5,2,99,7
+MM,Maxim Mehmet,1,1,1,4,1,3,1
+MBE,Meret Becker,2,1,1,3,2,99,1
+MS,Miriam Stein,2,1,1,2,1,3,1
+MAW,Monika Anna Wojtyllo,2,1,3,4,1,2,1
+ND,Nadine Dubois,2,1,1,2,2,99,1
+NU,Nadja Uhl,2,1,1,4,1,3,6
+TM,Thorsten Merten,1,1,1,5,2,99,1
+TMA,Tina Maria Aigner,2,1,1,1,1,3,1
+TP,Trystan Puetter,1,1,1,3,2,99,1
+UT,Ulrich Tukur,1,1,1,4,1,4,1
+UF,Ulrike Folkerts,2,1,1,4,2,99,1
+VK,Vicky Krieps,2,1,1,3,1,2,8
+VB,Volker Bruch,1,1,1,4,1,4,1
+WE,Werner Eng,1,1,1,1,1,2,1
+WWM,Wotan Wilke Moehring,1,1,1,5,1,3,9
+GVB,Gianna Valentina Bauer,2,1,1,3,1,2,4
+HZ,Hanns Zischler,1,1,1,5,1,3,1
+HM,Heike Makatsch,2,1,1,3,2,99,1
+IF,Inka Friedrich,2,1,1,5,2,99,1
+JJL,Jan Josef Liefers,1,1,3,5,1,4,1
+JP,Jeana Paraschiva,2,1,2,1,1,2,99
+JW,Jens Wawrczeck,1,1,3,1,2,99,99
+JBS,Joerg Bundschuh,1,1,3,2,2,99,1
+JB,Jose Barros,1,1,1,1,2,99,2
+1,Drei Zimmer/Kueche/Bad,0,2,0,0,0,0,0
+2,A Most Wanted Man,0,2,0,0,0,0,0
+3,Add a friend,0,2,0,0,0,0,0
+4,Alki Alki,0,2,0,0,0,0,0
+5,Alles ist liebe,0,2,0,0,0,0,0
+6,Almost Heaven,0,2,0,0,0,0,0
+7,Altes Geld,0,2,0,0,0,0,0
+8,Amigo Bei Ankunft Tod,0,2,0,0,0,0,0
+9,Anatomie 2,0,2,0,0,0,0,0
+10,Antikoerper,0,2,0,0,0,0,0
+11,Atlas,0,2,0,0,0,0,0
+12,Atome,0,2,0,0,0,0,0
+13,Aufschneider,0,2,0,0,0,0,0
+14,Aus dem Tagebuch eines Uber Fahrers,0,2,0,0,0,0,0
+15,Baal,0,2,0,0,0,0,0
+16a,Babylon Berlin Staffel 1,0,2,0,0,0,0,0
+16b,Babylon Berlin Staffel 2,0,2,0,0,0,0,0
+16c,Babylon Berlin Staffel 3,0,2,0,0,0,0,0
+17,Barfuß bis zum Hals,0,2,0,0,0,0,0
+18,Beat,0,2,0,0,0,0,0
+19,Bella Block: Vorsehung,0,2,0,0,0,0,0
+20,Benzin,0,2,0,0,0,0,0
+21,Besser als nix,0,2,0,0,0,0,0
+22,Betonrausch,0,2,0,0,0,0,0
+23,Bettys Diagnose: Turteln und Zwitschern,0,2,0,0,0,0,0
+24,Blueprint,0,2,0,0,0,0,0
+25,Borgia III,0,2,0,0,0,0,0
+26,Boesterreich,0,2,0,0,0,0,0
+27,Braunschlag,0,2,0,0,0,0,0
+28,Coming In,0,2,0,0,0,0,0
+29,Corsage,0,2,0,0,0,0,0
+30,Cortex,0,2,0,0,0,0,0
+31,Counterpart,0,2,0,0,0,0,0
+32,Das Adlon. Eine Familiensaga,0,2,0,0,0,0,0
+33a,Das Boot,0,2,0,0,0,0,0
+33b,Das Boot: Staffel 2,0,2,0,0,0,0,0
+34,Das goldene Ufer,0,2,0,0,0,0,0
+35,Das Leben der Anderen,0,2,0,0,0,0,0
+36,Das letzte Wort,0,2,0,0,0,0,0
+37,Das schoenste Maedchen der Welt,0,2,0,0,0,0,0
+38,Das weite Land,0,2,0,0,0,0,0
+39,Das Wunder von Lengede,0,2,0,0,0,0,0
+40,Der Baader Meinhof Komplex,0,2,0,0,0,0,0
+41,Der Flensburg Krimi: Heimkehr,0,2,0,0,0,0,0
+42a,Der Kriminalist,0,2,0,0,0,0,0
+42b,Der Kriminalist: Schuld und Suehne,0,2,0,0,0,0,0
+43,"Der Lehrer: Irgendwelche Notrufe, Alarme, Explosionen?",0,2,0,0,0,0,0
+44,Der rote Baron,0,2,0,0,0,0,0
+45,Der Stellvertreter,0,2,0,0,0,0,0
+46,Der Tiger oder was Frauen lieben,0,2,0,0,0,0,0
+47,Der Tote im Eis,0,2,0,0,0,0,0
+48,Der Turm,0,2,0,0,0,0,0
+49,Der Untergang der Pamir,0,2,0,0,0,0,0
+50,Der Vorleser,0,2,0,0,0,0,0
+51,die 7. Stunde,0,2,0,0,0,0,0
+52,Die Affaere Semmeling,0,2,0,0,0,0,0
+53,Die Boxerin,0,2,0,0,0,0,0
+54,Die Frau aus dem Meer,0,2,0,0,0,0,0
+55,Die Spaetzuender,0,2,0,0,0,0,0
+56,Die Sturmflut,0,2,0,0,0,0,0
+57,Die wilden Huehner und das Leben,0,2,0,0,0,0,0
+58,Dina Foxx: Toedlicher Kontakt,0,2,0,0,0,0,0
+59,Dornroeschen erwacht,0,2,0,0,0,0,0
+60,Dutschke,0,2,0,0,0,0,0
+61,Ein Dorf schweigt,0,2,0,0,0,0,0
+62,Ein goettlicher Job,0,2,0,0,0,0,0
+63,Ein Job,0,2,0,0,0,0,0
+64,Ein starkes Team: Zahn um Zahn,0,2,0,0,0,0,0
+65,Ein weites Herz: Schicksalsjahre einer deutschen Familie,0,2,0,0,0,0,0
+66,Einer bleibt sitzen,0,2,0,0,0,0,0
+67,Empathie,0,2,0,0,0,0,0
+68,Endstation Sehnsucht,0,2,0,0,0,0,0
+69,Entfuehrt,0,2,0,0,0,0,0
+70,Falco - Verdammt wir leben noch,0,2,0,0,0,0,0
+71,Familie auf Bestellung,0,2,0,0,0,0,0
+72,Fasten a la Carte,0,2,0,0,0,0,0
+73,Fleisch ist mein Gemuese,0,2,0,0,0,0,0
+74,Frau Temme sucht das Glueck,0,2,0,0,0,0,0
+75,Frauen,0,2,0,0,0,0,0
+76,Gleißende Glueck,0,2,0,0,0,0,0
+77,Global Player - Wo wir sind isch vorne,0,2,0,0,0,0,0
+78,Goethe,0,2,0,0,0,0,0
+79,Goldene Zeiten,0,2,0,0,0,0,0
+80,Gotthard,0,2,0,0,0,0,0
+81,Groupies bleiben nicht zum Fruehstueck,0,2,0,0,0,0,0
+82,Halt auf freier Strecke,0,2,0,0,0,0,0
+83,Happy Burnout,0,2,0,0,0,0,0
+84,Harms,0,2,0,0,0,0,0
+85,Heil,0,2,0,0,0,0,0
+86,Heimliche Liebe: Der Schueler und die Postbotin,0,2,0,0,0,0,0
+87,Herbe Mischung,0,2,0,0,0,0,0
+88,Herztoene,0,2,0,0,0,0,0
+89,Hilde,0,2,0,0,0,0,0
+90,Hin und Weg,0,2,0,0,0,0,0
+91,Im Namen meines Sohnes,0,2,0,0,0,0,0
+92,In Zeiten des abnehmenden Lichts,0,2,0,0,0,0,0
+93,Inklusion: gemeinsam anders,0,2,0,0,0,0,0
+94,Jedermann (Theater),0,2,0,0,0,0,0
+95,Jerks,0,2,0,0,0,0,0
+96,KDD - Kriminaldauerdienst,0,2,0,0,0,0,0
+97,Klimt,0,2,0,0,0,0,0
+98,Kommissar Rex,0,2,0,0,0,0,0
+99,Kreuzweg,0,2,0,0,0,0,0
+100,Kriminaldauerdienst,0,2,0,0,0,0,0
+101a,"01 Ku'damm 59 (1/3), Nicki und Freddy machen Musik",0,2,0,0,0,0,0
+101b,02 Ku'damm 63 (2/3),0,2,0,0,0,0,0
+102,Kuckuckszeit,0,2,0,0,0,0,0
+103,Kuehn hat zu tun,0,2,0,0,0,0,0
+104,Lena Lorenz: Geschwisterliebe,0,2,0,0,0,0,0
+105,Liebe Mauer,0,2,0,0,0,0,0
+106,Liebe und Verrat,0,2,0,0,0,0,0
+107,Little Thirteen,0,2,0,0,0,0,0
+108,Louis van Beethoven,0,2,0,0,0,0,0
+109,MA 2412: Die Staatsdiener,0,2,0,0,0,0,0
+110,MA 2412: Parkpickerl,0,2,0,0,0,0,0
+111,Mandy: Das Sozialdrama,0,2,0,0,0,0,0
+112,Mann tut was Mann kann,0,2,0,0,0,0,0
+113a,Maennerherzen,0,2,0,0,0,0,0
+113b,Maennerherzen und die ganz ganz große Liebe,0,2,0,0,0,0,0
+114,Maennertreu,0,2,0,0,0,0,0
+115,Meeresleuchten,0,2,0,0,0,0,0
+116,"Mein Vater, meine Frau und meine Geliebte",0,2,0,0,0,0,0
+117,Milk & Honey,0,2,0,0,0,0,0
+118,Mordkommission Berlin 1,0,2,0,0,0,0,0
+119,München 72: Das Attentat,0,2,0,0,0,0,0
+120,Mutig in die neuen Zeiten: im Reich der Reblaus,0,2,0,0,0,0,0
+121,Nachtschicht: Vatertag,0,2,0,0,0,0,0
+122,Nebenan,0,2,0,0,0,0,0
+123,Neun Szenen,0,2,0,0,0,0,0
+124,Nicht alle waren Moerder,0,2,0,0,0,0,0
+125,Nichts ist vergessen,0,2,0,0,0,0,0
+126,NOE,0,2,0,0,0,0,0
+127,Nord Nord Mord: Cluever und die fremde Frau,0,2,0,0,0,0,0
+128,Nordwand,0,2,0,0,0,0,0
+129,Notruf Hafenkante: Weggesperrt,0,2,0,0,0,0,0
+130,Nur eine Nacht,0,2,0,0,0,0,0
+131,Olgas Sommer,0,2,0,0,0,0,0
+132,Outside the Box,0,2,0,0,0,0,0
+133,Parfum,0,2,0,0,0,0,0
+134,Petting statt Pershing,0,2,0,0,0,0,0
+135,Pinocchio,0,2,0,0,0,0,0
+136a,Polizeiruf 110: Der Tod und das Maedchen,0,2,0,0,0,0,0
+136b,Polizeiruf 110: Tod einer Toten,0,2,0,0,0,0,0
+137,Prometheus (Theater),0,2,0,0,0,0,0
+138,Quellen des Lebens,0,2,0,0,0,0,0
+139,Reich oder tot,0,2,0,0,0,0,0
+140,"Renn, wenn du kannst",0,2,0,0,0,0,0
+141,Rommel,0,2,0,0,0,0,0
+142,Rote Rosen,0,2,0,0,0,0,0
+143,Russendisko,0,2,0,0,0,0,0
+144,Schade um das schoene Geld,0,2,0,0,0,0,0
+145,Schief gewickelt,0,2,0,0,0,0,0
+146,Schlussmacher,0,2,0,0,0,0,0
+147,Schneeweißchen und Rosenrot,0,2,0,0,0,0,0
+148,Schoene heile Welt,0,2,0,0,0,0,0
+149,Schutzengel,0,2,0,0,0,0,0
+150,Schwaegereltern,0,2,0,0,0,0,0
+151,SK Koelsch,0,2,0,0,0,0,0
+152,Skylines,0,2,0,0,0,0,0
+153,So gluecklich war ich noch nie,0,2,0,0,0,0,0
+154,So viel Zeit,0,2,0,0,0,0,0
+155,So weit das Meer,0,2,0,0,0,0,0
+156,Sommer vorm Balkon,0,2,0,0,0,0,0
+157,Sperling: Sperling und die kalte Angst,0,2,0,0,0,0,0
+158,Spieltrieb,0,2,0,0,0,0,0
+159a,Spreewaldkrimi: Das Laecheln der Schimaere,0,2,0,0,0,0,0
+159b,Spreewaldkrimi: Toedliche Heimkehr,0,2,0,0,0,0,0
+160,Stauffenberg,0,2,0,0,0,0,0
+161,Stralsund: Blutige Faehrte,0,2,0,0,0,0,0
+162,Tag und Nacht,0,2,0,0,0,0,0
+163,Taking Sides: Der Fall Furtwaengler,0,2,0,0,0,0,0
+164a,Tatort: Altlasten,0,2,0,0,0,0,0
+164b,Tatort: Ausweglos,0,2,0,0,0,0,0
+164c,Tatort: Das erste Opfer,0,2,0,0,0,0,0
+164d,Tatort: Das ist unser Haus,0,2,0,0,0,0,0
+164e,Tatort: Das Nest,0,2,0,0,0,0,0
+164f,Tatort: Dein Name Sei Harbinger,0,2,0,0,0,0,0
+164g,Tatort: Die dunkle Seite,0,2,0,0,0,0,0
+164h,Tatort: Die Ferien des Monsieur Murot,0,2,0,0,0,0,0
+164i,Tatort: Die harte Kern,0,2,0,0,0,0,0
+164j,Tatort: Die Sonne stirbt wie ein Tier,0,2,0,0,0,0,0
+164k,Tatort: Die Unsichtbare,0,2,0,0,0,0,0
+164l,Tatort: Die Wahrheit stirbt zuerst,0,2,0,0,0,0,0
+164m,Tatort: Ein Tag wie jeder andere,0,2,0,0,0,0,0
+164n,Tatort: Fette Krieger,0,2,0,0,0,0,0
+164o,Tatort: Feuerteufel,0,2,0,0,0,0,0
+164p,Tatort: HAL,0,2,0,0,0,0,0
+164q,Tatort: Heimwaerts,0,2,0,0,0,0,0
+164r,Tatort: Im Abseits,0,2,0,0,0,0,0
+164s,Tatort: In eigener Sache,0,2,0,0,0,0,0
+164t,Tatort: Leiden wie ein Tier,0,2,0,0,0,0,0
+164u,Tatort: Level X,0,2,0,0,0,0,0
+164v,Tatort: Murot und das Murmeltier,0,2,0,0,0,0,0
+164w,Tatort: Querschlaeger,0,2,0,0,0,0,0
+164x,Tatort: Rhythm And Love,0,2,0,0,0,0,0
+164y,Tatort: Schoen ist anders,0,2,0,0,0,0,0
+164z,Tatort: Schwarzer Afghane,0,2,0,0,0,0,0
+164aa,Tatort: Stau,0,2,0,0,0,0,0
+164ab,Tatort: Todesschuetze,0,2,0,0,0,0,0
+164ac,Tatort: Todesstrafe,0,2,0,0,0,0,0
+164ad,Tatort: Tyrannenmord,0,2,0,0,0,0,0
+164ae,Tatort: Unbestechlich,0,2,0,0,0,0,0
+164af,Tatort: Vermisst,0,2,0,0,0,0,0
+164ag,Tatort: Weg ins Paradies,0,2,0,0,0,0,0
+164ah,Tatort: Wie einst Lilly,0,2,0,0,0,0,0
+164ai,Tatort: Zorn Gottes,0,2,0,0,0,0,0
+165,"Ternitz, Tennessee",0,2,0,0,0,0,0
+166,the cut,0,2,0,0,0,0,0
+167,The Girl in the Spider's web,0,2,0,0,0,0,0
+168,Theresa Wolff: Der Thüringenkrimi,0,2,0,0,0,0,0
+169,Toedliches Comeback,0,2,0,0,0,0,0
+170,Tosca (Theater),0,2,0,0,0,0,0
+171,"Unsere Muetter, Unsere Vaeter",0,2,0,0,0,0,0
+172,Unsere Zeit ist jetzt,0,2,0,0,0,0,0
+173a,Unter anderen Umständen: Boese Maedchen,0,2,0,0,0,0,0
+173b,Unter anderen Umstaenden: Im finstern Tal,0,2,0,0,0,0,0
+173c,Unter anderen Umstaenden: Spiel mit dem Feuer,0,2,0,0,0,0,0
+174,Unter Frauen,0,2,0,0,0,0,0
+175,Verbotene Liebe,0,2,0,0,0,0,0
+176,Viel Laerm um nichts,0,2,0,0,0,0,0
+177,Vier Minuten,0,2,0,0,0,0,0
+178,Warten auf Angelina,0,2,0,0,0,0,0
+179,Warum laeuft Herr V. Amok,0,2,0,0,0,0,0
+180,Was hat und bloß so ruiniert,0,2,0,0,0,0,0
+181,Was im Leben zaehlt,0,2,0,0,0,0,0
+182,Weil wir Champions sind,0,2,0,0,0,0,0
+183,Westwall,0,2,0,0,0,0,0
+184,Willkommen zu Hause,0,2,0,0,0,0,0
+185,Wilsberg: Todesengel,0,2,0,0,0,0,0
+186,Wo ist Fred,0,2,0,0,0,0,0
+187,Woyzeck,0,2,0,0,0,0,0
+188,Z.E.R.V.,0,2,0,0,0,0,0
+189,Zettl,0,2,0,0,0,0,0
+190,Zimtstern und Halbmond,0,2,0,0,0,0,0
+191,Zum Sterben zu früh,0,2,0,0,0,0,0
+192,Zwei Leben,0,2,0,0,0,0,0
+193,agentur factory,0,3,0,0,0,0,0
+194,die agenten GmbH,0,3,0,0,0,0,0
+195,fitz + skoglund agents,0,3,0,0,0,0,0
+196,Homebase Agentur,0,3,0,0,0,0,0
+197,Players Agentur Management GmbH,0,3,0,0,0,0,0
+198,PUBLICS PR & Management,0,3,0,0,0,0,0
+199,ZAV Berlin,0,3,0,0,0,0,0
+200,Comedy Tour,0,4,0,0,0,0,0
+201,Projekt: Changemakers,0,4,0,0,0,0,0
+202,Projekt: Los fuer Lesbos,0,4,0,0,0,0,0
