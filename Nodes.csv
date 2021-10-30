@@ -1,0 +1,300 @@
+ID,name,sex,type ,job,films,video,range,home
+AM,Alexandra Marinescu,2,1,1,1,2,99,1
+BM,Ben Muenchnow,1,1,1,2,2,99,1
+BG,Bernd Gnann,1,1,1,1,1,3,5
+CAG,Cem Ali Gueltekin,1,1,1,4,1,4,2
+CE,Christian Ehrich,1,1,1,2,2,99,1
+CS,Christine Sommer ,2,1,1,4,1,2,3
+CR,Claudia Rippe,2,1,1,1,1,2,1
+FK,Felix Klare ,1,1,1,4,1,2,4
+DB,Dietrich Brueggemann,1,1,3,3,1,2,1
+JKB,Joseph Konrad Bundschuh,1,1,1,3,2,99,1
+KT,Karoline Teska,2,1,1,4,1,2,1
+KS,Katharina Schlothauer,2,1,1,3,2,99,1
+KO,Kathrin Osterode,2,1,1,2,2,99,1
+KK,Kea Koenneker,2,1,1,1,1,2,1
+KD,Ken Duken,1,1,1,4,2,99,1
+KU,Kostja Ullmann,1,1,1,4,2,99,2
+MR,Manuel Rubey,1,1,1,4,2,99,3
+NO,Nicholas Ofczarek,1,1,1,4,2,99,1
+NG,Nina Gummich,2,1,1,3,1,4,6
+NP,Nina Proll,2,1,1,4,1,3,3
+PA,Pasquale Aleardi,1,1,1,4,2,99,1
+PB,Peri Baumeister,2,1,1,2,2,99,1
+RY,Ramin Yazdani,1,1,3,4,1,2,2
+RM,Richy Mueller,1,1,1,3,2,99,99
+RD,Roland Dueringer,1,1,1,2,1,2,99
+SD,Samia Dauenhauer,2,1,1,1,2,99,1
+MG,Markus Glaeser,1,1,1,2,2,99,1
+MB,Martin Brambach,1,1,1,5,2,99,7
+MM,Maxim Mehmet,1,1,1,4,1,3,1
+MBE,Meret Becker,2,1,1,3,2,99,1
+MS,Miriam Stein,2,1,1,2,1,3,1
+MAW,Monika Anna Wojtyllo,2,1,3,4,1,2,1
+ND,Nadine Dubois,2,1,1,2,2,99,1
+NU,Nadja Uhl,2,1,1,4,1,3,6
+TM,Thorsten Merten,1,1,1,5,2,99,1
+TMA,Tina Maria Aigner,2,1,1,1,1,3,1
+TP,Trystan Puetter,1,1,1,3,2,99,1
+UT,Ulrich Tukur,1,1,1,4,1,4,1
+UF,Ulrike Folkerts,2,1,1,4,2,99,1
+VK,Vicky Krieps,2,1,1,3,1,2,8
+VB,Volker Bruch,1,1,1,4,1,4,1
+WE,Werner Eng,1,1,1,1,1,2,1
+WWM,Wotan Wilke Moehring,1,1,1,5,1,3,9
+GVB,Gianna Valentina Bauer,2,1,1,3,1,2,4
+HZ,Hanns Zischler,1,1,1,5,1,3,1
+HM,Heike Makatsch,2,1,1,3,2,99,1
+IF,Inka Friedrich,2,1,1,5,2,99,1
+JJL,Jan Josef Liefers,1,1,3,5,1,4,1
+JP,Jeana Paraschiva,2,1,2,1,1,2,99
+JW,Jens Wawrczeck,1,1,3,1,2,99,99
+JBS,Joerg Bundschuh,1,1,3,2,2,99,1
+JB,Jose Barros,1,1,1,1,2,99,2
+1,Drei Zimmer/Kueche/Bad,98,2,98,98,98,98,98
+2,A Most Wanted Man,98,2,98,98,98,98,98
+3,Add a friend,98,2,98,98,98,98,98
+4,Alki Alki,98,2,98,98,98,98,98
+5,Alles ist liebe,98,2,98,98,98,98,98
+6,Almost Heaven,98,2,98,98,98,98,98
+7,Altes Geld,98,2,98,98,98,98,98
+8,Amigo Bei Ankunft Tod,98,2,98,98,98,98,98
+9,Anatomie 2,98,2,98,98,98,98,98
+10,Antikoerper,98,2,98,98,98,98,98
+11,Atlas,98,2,98,98,98,98,98
+12,Atome,98,2,98,98,98,98,98
+13,Aufschneider,98,2,98,98,98,98,98
+14,Aus dem Tagebuch eines Uber Fahrers,98,2,98,98,98,98,98
+15,Baal,98,2,98,98,98,98,98
+16a,Babylon Berlin Staffel 1,98,2,98,98,98,98,98
+16b,Babylon Berlin Staffel 2,98,2,98,98,98,98,98
+16c,Babylon Berlin Staffel 3,98,2,98,98,98,98,98
+17,Barfuss bis zum Hals,98,2,98,98,98,98,98
+18,Beat,98,2,98,98,98,98,98
+19,Bella Block: Vorsehung,98,2,98,98,98,98,98
+20,Benzin,98,2,98,98,98,98,98
+21,Besser als nix,98,2,98,98,98,98,98
+22,Betonrausch,98,2,98,98,98,98,98
+23,Bettys Diagnose: Turteln und Zwitschern,98,2,98,98,98,98,98
+24,Blueprint,98,2,98,98,98,98,98
+25,Borgia III,98,2,98,98,98,98,98
+26,Boesterreich,98,2,98,98,98,98,98
+27,Braunschlag,98,2,98,98,98,98,98
+28,Coming In,98,2,98,98,98,98,98
+29,Corsage,98,2,98,98,98,98,98
+30,Cortex,98,2,98,98,98,98,98
+31,Counterpart,98,2,98,98,98,98,98
+32,Das Adlon. Eine Familiensaga,98,2,98,98,98,98,98
+33a,Das Boot,98,2,98,98,98,98,98
+33b,Das Boot: Staffel 2,98,2,98,98,98,98,98
+34,Das goldene Ufer,98,2,98,98,98,98,98
+35,Das Leben der Anderen,98,2,98,98,98,98,98
+36,Das letzte Wort,98,2,98,98,98,98,98
+37,Das schoenste Maedchen der Welt,98,2,98,98,98,98,98
+38,Das weite Land,98,2,98,98,98,98,98
+39,Das Wunder von Lengede,98,2,98,98,98,98,98
+40,Der Baader Meinhof Komplex,98,2,98,98,98,98,98
+41,Der Flensburg Krimi: Heimkehr,98,2,98,98,98,98,98
+42a,Der Kriminalist,98,2,98,98,98,98,98
+42b,Der Kriminalist: Schuld und Suehne,98,2,98,98,98,98,98
+43,"Der Lehrer: Irgendwelche Notrufe, Alarme, Explosionen?",98,2,98,98,98,98,98
+44,Der rote Baron,98,2,98,98,98,98,98
+45,Der Stellvertreter,98,2,98,98,98,98,98
+46,Der Tiger oder was Frauen lieben,98,2,98,98,98,98,98
+47,Der Tote im Eis,98,2,98,98,98,98,98
+48,Der Turm,98,2,98,98,98,98,98
+49,Der Untergang der Pamir,98,2,98,98,98,98,98
+50,Der Vorleser,98,2,98,98,98,98,98
+51,die 7. Stunde,98,2,98,98,98,98,98
+52,Die Affaere Semmeling,98,2,98,98,98,98,98
+53,Die Boxerin,98,2,98,98,98,98,98
+54,Die Frau aus dem Meer,98,2,98,98,98,98,98
+55,Die Spaetzuender,98,2,98,98,98,98,98
+56,Die Sturmflut,98,2,98,98,98,98,98
+57,Die wilden Huehner und das Leben,98,2,98,98,98,98,98
+58,Dina Foxx: Toedlicher Kontakt,98,2,98,98,98,98,98
+59,Dornroeschen erwacht,98,2,98,98,98,98,98
+60,Dutschke,98,2,98,98,98,98,98
+61,Ein Dorf schweigt,98,2,98,98,98,98,98
+62,Ein goettlicher Job,98,2,98,98,98,98,98
+63,Ein Job,98,2,98,98,98,98,98
+64,Ein starkes Team: Zahn um Zahn,98,2,98,98,98,98,98
+65,Ein weites Herz: Schicksalsjahre einer deutschen Familie,98,2,98,98,98,98,98
+66,Einer bleibt sitzen,98,2,98,98,98,98,98
+67,Empathie,98,2,98,98,98,98,98
+68,Endstation Sehnsucht,98,2,98,98,98,98,98
+69,Entfuehrt,98,2,98,98,98,98,98
+70,Falco - Verdammt wir leben noch,98,2,98,98,98,98,98
+71,Familie auf Bestellung,98,2,98,98,98,98,98
+72,Fasten a la Carte,98,2,98,98,98,98,98
+73,Fleisch ist mein Gemuese,98,2,98,98,98,98,98
+74,Frau Temme sucht das Glueck,98,2,98,98,98,98,98
+75,Frauen,98,2,98,98,98,98,98
+76,Gleissende Glueck,98,2,98,98,98,98,98
+77,Global Player - Wo wir sind isch vorne,98,2,98,98,98,98,98
+78,Goethe,98,2,98,98,98,98,98
+79,Goldene Zeiten,98,2,98,98,98,98,98
+80,Gotthard,98,2,98,98,98,98,98
+81,Groupies bleiben nicht zum Fruehstueck,98,2,98,98,98,98,98
+82,Halt auf freier Strecke,98,2,98,98,98,98,98
+83,Happy Burnout,98,2,98,98,98,98,98
+84,Harms,98,2,98,98,98,98,98
+85,Heil,98,2,98,98,98,98,98
+86,Heimliche Liebe: Der Schueler und die Postbotin,98,2,98,98,98,98,98
+87,Herbe Mischung,98,2,98,98,98,98,98
+88,Herztoene,98,2,98,98,98,98,98
+89,Hilde,98,2,98,98,98,98,98
+90,Hin und Weg,98,2,98,98,98,98,98
+91,Im Namen meines Sohnes,98,2,98,98,98,98,98
+92,In Zeiten des abnehmenden Lichts,98,2,98,98,98,98,98
+93,Inklusion: gemeinsam anders,98,2,98,98,98,98,98
+94,Jedermann (Theater),98,2,98,98,98,98,98
+95,Jerks,98,2,98,98,98,98,98
+96,KDD - Kriminaldauerdienst,98,2,98,98,98,98,98
+97,Klimt,98,2,98,98,98,98,98
+98,Kommissar Rex,98,2,98,98,98,98,98
+99,Kreuzweg,98,2,98,98,98,98,98
+100,Kriminaldauerdienst,98,2,98,98,98,98,98
+101a,"01 Ku'damm 59 (1/3), Nicki und Freddy machen Musik",98,2,98,98,98,98,98
+101b,02 Ku'damm 63 (2/3),98,2,98,98,98,98,98
+102,Kuckuckszeit,98,2,98,98,98,98,98
+103,Kuehn hat zu tun,98,2,98,98,98,98,98
+104,Lena Lorenz: Geschwisterliebe,98,2,98,98,98,98,98
+105,Liebe Mauer,98,2,98,98,98,98,98
+106,Liebe und Verrat,98,2,98,98,98,98,98
+107,Little Thirteen,98,2,98,98,98,98,98
+108,Louis van Beethoven,98,2,98,98,98,98,98
+109,MA 2412: Die Staatsdiener,98,2,98,98,98,98,98
+110,MA 2412: Parkpickerl,98,2,98,98,98,98,98
+111,Mandy: Das Sozialdrama,98,2,98,98,98,98,98
+112,Mann tut was Mann kann,98,2,98,98,98,98,98
+113a,Maennerherzen,98,2,98,98,98,98,98
+113b,Maennerherzen und die ganz ganz grosse Liebe,98,2,98,98,98,98,98
+114,Maennertreu,98,2,98,98,98,98,98
+115,Meeresleuchten,98,2,98,98,98,98,98
+116,"Mein Vater, meine Frau und meine Geliebte",98,2,98,98,98,98,98
+117,Milk & Honey,98,2,98,98,98,98,98
+118,Mordkommission Berlin 1,98,2,98,98,98,98,98
+119,Muenchen 72: Das Attentat,98,2,98,98,98,98,98
+120,Mutig in die neuen Zeiten: im Reich der Reblaus,98,2,98,98,98,98,98
+121,Nachtschicht: Vatertag,98,2,98,98,98,98,98
+122,Nebenan,98,2,98,98,98,98,98
+123,Neun Szenen,98,2,98,98,98,98,98
+124,Nicht alle waren Moerder,98,2,98,98,98,98,98
+125,Nichts ist vergessen,98,2,98,98,98,98,98
+126,NOE,98,2,98,98,98,98,98
+127,Nord Nord Mord: Cluever und die fremde Frau,98,2,98,98,98,98,98
+128,Nordwand,98,2,98,98,98,98,98
+129,Notruf Hafenkante: Weggesperrt,98,2,98,98,98,98,98
+130,Nur eine Nacht,98,2,98,98,98,98,98
+131,Olgas Sommer,98,2,98,98,98,98,98
+132,Outside the Box,98,2,98,98,98,98,98
+133,Parfum,98,2,98,98,98,98,98
+134,Petting statt Pershing,98,2,98,98,98,98,98
+135,Pinocchio,98,2,98,98,98,98,98
+136a,Polizeiruf 110: Der Tod und das Maedchen,98,2,98,98,98,98,98
+136b,Polizeiruf 110: Tod einer Toten,98,2,98,98,98,98,98
+137,Prometheus (Theater),98,2,98,98,98,98,98
+138,Quellen des Lebens,98,2,98,98,98,98,98
+139,Reich oder tot,98,2,98,98,98,98,98
+140,"Renn, wenn du kannst",98,2,98,98,98,98,98
+141,Rommel,98,2,98,98,98,98,98
+142,Rote Rosen,98,2,98,98,98,98,98
+143,Russendisko,98,2,98,98,98,98,98
+144,Schade um das schoene Geld,98,2,98,98,98,98,98
+145,Schief gewickelt,98,2,98,98,98,98,98
+146,Schlussmacher,98,2,98,98,98,98,98
+147,Schneeweisschen und Rosenrot,98,2,98,98,98,98,98
+148,Schoene heile Welt,98,2,98,98,98,98,98
+149,Schutzengel,98,2,98,98,98,98,98
+150,Schwaegereltern,98,2,98,98,98,98,98
+151,SK Koelsch,98,2,98,98,98,98,98
+152,Skylines,98,2,98,98,98,98,98
+153,So gluecklich war ich noch nie,98,2,98,98,98,98,98
+154,So viel Zeit,98,2,98,98,98,98,98
+155,So weit das Meer,98,2,98,98,98,98,98
+156,Sommer vorm Balkon,98,2,98,98,98,98,98
+157,Sperling: Sperling und die kalte Angst,98,2,98,98,98,98,98
+158,Spieltrieb,98,2,98,98,98,98,98
+159a,Spreewaldkrimi: Das Laecheln der Schimaere,98,2,98,98,98,98,98
+159b,Spreewaldkrimi: Toedliche Heimkehr,98,2,98,98,98,98,98
+160,Stauffenberg,98,2,98,98,98,98,98
+161,Stralsund: Blutige Faehrte,98,2,98,98,98,98,98
+162,Tag und Nacht,98,2,98,98,98,98,98
+163,Taking Sides: Der Fall Furtwaengler,98,2,98,98,98,98,98
+164a,Tatort: Altlasten,98,2,98,98,98,98,98
+164b,Tatort: Ausweglos,98,2,98,98,98,98,98
+164c,Tatort: Das erste Opfer,98,2,98,98,98,98,98
+164d,Tatort: Das ist unser Haus,98,2,98,98,98,98,98
+164e,Tatort: Das Nest,98,2,98,98,98,98,98
+164f,Tatort: Dein Name Sei Harbinger,98,2,98,98,98,98,98
+164g,Tatort: Die dunkle Seite,98,2,98,98,98,98,98
+164h,Tatort: Die Ferien des Monsieur Murot,98,2,98,98,98,98,98
+164i,Tatort: Die harte Kern,98,2,98,98,98,98,98
+164j,Tatort: Die Sonne stirbt wie ein Tier,98,2,98,98,98,98,98
+164k,Tatort: Die Unsichtbare,98,2,98,98,98,98,98
+164l,Tatort: Die Wahrheit stirbt zuerst,98,2,98,98,98,98,98
+164m,Tatort: Ein Tag wie jeder andere,98,2,98,98,98,98,98
+164n,Tatort: Fette Krieger,98,2,98,98,98,98,98
+164o,Tatort: Feuerteufel,98,2,98,98,98,98,98
+164p,Tatort: HAL,98,2,98,98,98,98,98
+164q,Tatort: Heimwaerts,98,2,98,98,98,98,98
+164r,Tatort: Im Abseits,98,2,98,98,98,98,98
+164s,Tatort: In eigener Sache,98,2,98,98,98,98,98
+164t,Tatort: Leiden wie ein Tier,98,2,98,98,98,98,98
+164u,Tatort: Level X,98,2,98,98,98,98,98
+164v,Tatort: Murot und das Murmeltier,98,2,98,98,98,98,98
+164w,Tatort: Querschlaeger,98,2,98,98,98,98,98
+164x,Tatort: Rhythm And Love,98,2,98,98,98,98,98
+164y,Tatort: Schoen ist anders,98,2,98,98,98,98,98
+164z,Tatort: Schwarzer Afghane,98,2,98,98,98,98,98
+164aa,Tatort: Stau,98,2,98,98,98,98,98
+164ab,Tatort: Todesschuetze,98,2,98,98,98,98,98
+164ac,Tatort: Todesstrafe,98,2,98,98,98,98,98
+164ad,Tatort: Tyrannenmord,98,2,98,98,98,98,98
+164ae,Tatort: Unbestechlich,98,2,98,98,98,98,98
+164af,Tatort: Vermisst,98,2,98,98,98,98,98
+164ag,Tatort: Weg ins Paradies,98,2,98,98,98,98,98
+164ah,Tatort: Wie einst Lilly,98,2,98,98,98,98,98
+164ai,Tatort: Zorn Gottes,98,2,98,98,98,98,98
+165,"Ternitz, Tennessee",98,2,98,98,98,98,98
+166,the cut,98,2,98,98,98,98,98
+167,The Girl in the Spider's web,98,2,98,98,98,98,98
+168,Theresa Wolff: Der Thueringenkrimi,98,2,98,98,98,98,98
+169,Toedliches Comeback,98,2,98,98,98,98,98
+170,Tosca (Theater),98,2,98,98,98,98,98
+171,"Unsere Muetter, Unsere Vaeter",98,2,98,98,98,98,98
+172,Unsere Zeit ist jetzt,98,2,98,98,98,98,98
+173a,Unter anderen Umstaenden: Boese Maedchen,98,2,98,98,98,98,98
+173b,Unter anderen Umstaenden: Im finstern Tal,98,2,98,98,98,98,98
+173c,Unter anderen Umstaenden: Spiel mit dem Feuer,98,2,98,98,98,98,98
+174,Unter Frauen,98,2,98,98,98,98,98
+175,Verbotene Liebe,98,2,98,98,98,98,98
+176,Viel Laerm um nichts,98,2,98,98,98,98,98
+177,Vier Minuten,98,2,98,98,98,98,98
+178,Warten auf Angelina,98,2,98,98,98,98,98
+179,Warum laeuft Herr V. Amok,98,2,98,98,98,98,98
+180,Was hat und bloss so ruiniert,98,2,98,98,98,98,98
+181,Was im Leben zaehlt,98,2,98,98,98,98,98
+182,Weil wir Champions sind,98,2,98,98,98,98,98
+183,Westwall,98,2,98,98,98,98,98
+184,Willkommen zu Hause,98,2,98,98,98,98,98
+185,Wilsberg: Todesengel,98,2,98,98,98,98,98
+186,Wo ist Fred,98,2,98,98,98,98,98
+187,Woyzeck,98,2,98,98,98,98,98
+188,Z.E.R.V.,98,2,98,98,98,98,98
+189,Zettl,98,2,98,98,98,98,98
+190,Zimtstern und Halbmond,98,2,98,98,98,98,98
+191,Zum Sterben zu frueh,98,2,98,98,98,98,98
+192,Zwei Leben,98,2,98,98,98,98,98
+193,agentur factory,98,3,98,98,98,98,98
+194,die agenten GmbH,98,3,98,98,98,98,98
+195,fitz + skoglund agents,98,3,98,98,98,98,98
+196,Homebase Agentur,98,3,98,98,98,98,98
+197,Players Agentur Management GmbH,98,3,98,98,98,98,98
+198,PUBLICS PR & Management,98,3,98,98,98,98,98
+199,ZAV Berlin,98,3,98,98,98,98,98
+200,Comedy Tour,98,4,98,98,98,98,98
+201,Projekt: Changemakers,98,4,98,98,98,98,98
+202,Projekt: Los fuer Lesbos,98,4,98,98,98,98,98
+203,Creme Frech,98,2,98,98,98,98,98
